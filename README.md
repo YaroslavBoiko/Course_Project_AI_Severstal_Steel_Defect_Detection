@@ -17,5 +17,5 @@ This section describes the steps you need to take to complete the training and t
   - 4.2 If you want to train and test:
       You have two options to do it all with one file or two (with decomposition, the essence is better understood)
     - 4.2.1. If you want by one file - run Yaroslav Boiko_Main.ipynb
-    - 4.2.2. If you want by two files, run Train.ipynb first, then test
+    - 4.2.2. If you want by two files, run Train.ipynb first, then Test.ipynb.
   5. You can check the results on the [kaggle](https://www.kaggle.com).
