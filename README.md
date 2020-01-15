@@ -5,7 +5,6 @@
 
 
 This section describes the steps you need to take to complete the training and testing process
-
 (So, how to use all that is here)
 
 
